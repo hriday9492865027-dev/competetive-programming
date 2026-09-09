@@ -3,12 +3,6 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START255D/problems/ADDIS
-// Solved on: 2026-09-09T15:43:38.401Z
+// Solved on: 2026-09-09T15:46:16.391Z
 
-#include <stdio.h>
-
-int main() {
-	// your code goes here
-
-}
-
+// source not captured automatically - open the solution page and copy it manually
