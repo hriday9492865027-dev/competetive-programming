@@ -3,25 +3,6 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START255D/problems/UNQSHF
-// Solved on: 2026-09-09T15:35:18.395Z
+// Solved on: 2026-09-09T15:37:57.591Z
 
-#include <stdio.h>
-#include<string.h>
-int main() {
-	// your code goes here
-    int t,n;
-    scanf("%d",&t);
-    while(t--){
-        scanf("%d",&n);
-        char A[n],B[n];
-        scanf("%s",a);
-        scanf("%s",b);
-        for(int i=0;i<n;i++){
-            if(A[i]==B[i]){
-                while(A[i]==B)
-            }
-        }
-    }
-    
-}
-
+// source not captured automatically - open the solution page and copy it manually
