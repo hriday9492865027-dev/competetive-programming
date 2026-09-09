@@ -3,6 +3,6 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START255D/problems/SPLDM
-// Solved on: 2026-09-09T15:40:41.744Z
+// Solved on: 2026-09-09T15:46:50.805Z
 
 // source not captured automatically - open the solution page and copy it manually
